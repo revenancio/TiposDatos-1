@@ -10,6 +10,7 @@ public class Empleado
    String nombresApellidos;
    LocalDate fechaNacimiento;
    String telefonos;
+   String provincia;
    char genero; 
    double salario;  
 }
