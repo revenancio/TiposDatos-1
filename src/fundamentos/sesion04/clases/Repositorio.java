@@ -5,4 +5,5 @@ public class Repositorio
    private int codigo;
    private String nombres;
    private char estado;
+   private int tamanio;
 }
